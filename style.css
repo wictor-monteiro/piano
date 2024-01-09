@@ -76,15 +76,16 @@ body {
 }
 
 .container button {
-  background-color: #ff9238;
+  background-color: #ff923895;
   color: #ffff;
   white-space: nowrap;
   font-size: 22px;
   border: none;
   outline: 1 em;
-  padding: 1em 3em;
-  border-radius: 0.4em;
+  padding: 1em 1em;
+  border-radius: 0.2em;
   cursor: pointer;
+  transform: scale(1.0);
   margin-top: 10px;
   margin-left: 5px;
   margin-bottom: 25px;
